@@ -75,7 +75,7 @@ Through this pre-course, my focus is to:
 
 * Git
 * GitHub
-* VS Code
+* PyCharm or Any Python Supported Editor
 
 ---
 
